@@ -1,0 +1,31 @@
+📘 Student Score Prediction using Linear Regression
+
+## 🔍 Project Goal
+To predict a student's exam score based on the number of hours studied using simple linear regression.
+
+---
+
+## 🛠️ Tools Used
+- Python 🐍
+- Pandas
+- Matplotlib
+- Seaborn
+- Scikit-learn
+
+---
+
+## 📊 Dataset
+A small dataset with two columns:
+- Hours (No. of study hours)
+- Scores (Marks obtained)
+
+---
+
+## 🔁 Steps Involved
+
+1. Load and understand the data
+2. Visualize the relationship between study hours and scores
+3. Prepare data and split into training & testing sets
+4. Train a Linear Regression model
+5. Predict and evaluate the model using MAE
+6. Visualize Actual vs Predicted scores
